@@ -1,0 +1,5 @@
+# Windows Update download output folders
+# Ignore dated cumulative-update download folders under 24H2 and 26H2
+
+24H2/20*-Windows11-24H2-Cumulative/
+26H2/20*-Windows11-26H2-Cumulative/
