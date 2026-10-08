@@ -1,10 +1,14 @@
 # Description
 
-This has the scripts we use on the NAS to download the _PATCH TUESDAY_ *x64-only, monthly cumulative security update only* of either 24H2 or 26H2.
+1. This has NTLite Photos for the WIM Update process for the lab image we use (for MDT/SCCM/WAPT etc).
+
+2. This has the scripts we use on the NAS to download the _PATCH TUESDAY_ *x64-only, monthly cumulative security update only* of either 24H2 or 26H2.
 
 These are then loaded into PDQ on the lab and will update in-place. 
 
 If you wish to go from 24H2 > 25H2 or higher you MUST ONLY F12 your BOX COMPLETELY (This is JTs recommendation).
+
+
 
 # Usage:
 
